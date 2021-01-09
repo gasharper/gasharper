@@ -53,7 +53,7 @@ Here are some ideas to get you started:
           1500RMB
       </td>
       <td width=230px;>
-          █████░░░░░&nbsp;&nbsp;(50.00 %)
+          ██████████&nbsp;&nbsp;(100.00 %)
       </td>
   </tr>
   <tr>
