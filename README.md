@@ -58,24 +58,13 @@ Here are some ideas to get you started:
   </tr>
   <tr>
       <td width=220px;>
-          Top conference or journal
+          CVPR paper
       </td>
       <td width=145px;>
           Hard working now
       </td>
       <td width=230px;>
-          █░░░░░░░░░&nbsp;&nbsp;(10.15 %)
-      </td>
-  </tr>
-  <tr>
-      <td width=220px;>
-          Algorithm exercising
-      </td>
-      <td width=145px;>
-          Doing now
-      </td>
-      <td width=230px;>
-          █░░░░░░░░░&nbsp;&nbsp;(10.15 %)
+          █████████░&nbsp;&nbsp;(90.00 %)
       </td>
   </tr>
     <tr>
