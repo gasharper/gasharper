@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 📧 Contact me:  
-- mail : gasharper@qq.com
+- mail : karrilett@zju.edu.cn
 
 <h2>📊 Dream List: </h2>
 <table>
@@ -61,13 +61,24 @@ Here are some ideas to get you started:
           CVPR paper
       </td>
       <td width=145px;>
-          Hard working now
+          At here https://paperswithcode.com/paper/pyramidflow-high-resolution-defect
       </td>
       <td width=230px;>
-          █████████░&nbsp;&nbsp;(90.00 %)
+          ██████████&nbsp;&nbsp;(100.00 %)
       </td>
   </tr>
-    <tr>
+  <tr>
+      <td width=220px;>
+          A next top journal paper
+      </td>
+      <td width=145px;>
+          Hard working now!
+      </td>
+      <td width=230px;>
+          █░░░░░░░░░&nbsp;&nbsp;(3.14 %)
+      </td>
+  </tr>
+  <tr>
       <td width=220px;>
           A work-life balance job
       </td>
