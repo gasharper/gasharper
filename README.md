@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 # About me
 
-- Chinese :ZJU研究生在读，从事光学检测、软件工程、深度学习研究。
-
-- English : Graduate student at Zhejiang University, engaged in Optical Inspection, Software Engineering and Theoretical Deep Learning research.
+- Graduate student at Zhejiang University, engaged in Industrial vision using Deep Learning.
 
 
 **🌈 Languages and Tools:**
